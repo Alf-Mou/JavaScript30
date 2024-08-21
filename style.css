@@ -1,0 +1,10 @@
+.card-edit {
+    box-shadow: 0 0 10px 4px rgba(255, 69, 0, 0.8);
+    transition: all .5s;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    transition: transform 0.3s ease;
+    
+  }
