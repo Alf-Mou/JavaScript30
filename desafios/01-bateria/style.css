@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+}
+
+.big-height {
+    min-height: 70%
+
+}
+
+.samll-height {
+    height: 10vh;
+}
+
+.key {
+    transition: all .1s;
+}
+
+.playing {
+    transform: scale(2);
+    border-color: #ffc600;
+    box-shadow: 0 0 1rem #ffc600;
+}
